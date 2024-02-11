@@ -1,0 +1,1 @@
+Simple code that opens your browser (Firefox in this case) and auto-fills form fields using the Selenium library. My purpose with this code is to learn more about web automation and also improve my skills in it.
